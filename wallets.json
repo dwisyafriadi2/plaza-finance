@@ -1,0 +1,13 @@
+[
+  {
+    "address": "0x...",
+    "privateKey": "0x..",
+    "mnemonic": "..."
+  },
+  {
+    "address": "0x...",
+    "privateKey": "0x..",
+    "mnemonic": "..."
+  }
+	
+]
