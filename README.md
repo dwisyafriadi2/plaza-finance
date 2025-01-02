@@ -1,11 +1,11 @@
 # PLAZA FINANCE BOT
-Tool được phát triển bởi nhóm tele Airdrop Hunter Siêu Tốc (<https://t.me/airdrophuntersieutoc>)
+Join Telegram(<https://t.me/dasarpemulung>)
 Plaza is a platform for on-chain bonds and leverage on Base.
 
 Plaza is a platform for programmable derivatives built as a set of Solidity smart contracts on Base. It offers two core products: bondETH and levETH, which are programmable derivatives of a pool of ETH liquid staking derivatives (LSTs) and liquid restaking derivatives (LRTs) such as wstETH. Users can deposit an underlying pool asset like wstETH and receive levETH or bondETH in return, which are represented as ERC20 tokens. These tokens are composable with protocols such as DEXes, lending markets, restaking platforms, etc.
 
 
-- Website [https://testnet.plaza.finance/](https://testnet.plaza.finance/rewards/Q3SEPYnNMH7K)
+- Website [https://testnet.plaza.finance/](https://testnet.plaza.finance/rewards/pQzOu24ew5lT)
 - Twitter [@plaza_finance](https://x.com/plaza_finance)
 
 ## Update 
